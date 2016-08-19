@@ -1,4 +1,3 @@
-//#include <stdio.h>
 #include "Git_learn.h"
 int main(void)
 {
